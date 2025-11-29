@@ -6,7 +6,7 @@ export default function Home() {
         <h1 className="text-3xl sm:text-4xl font-bold text-black dark:text-zinc-50 mb-2 text-center">
           Shazab Saifi
         </h1>
-        <p className="text-lg text-zinc-600 italic dark:text-zinc-400 mb-8 text-center">
+        <p className="text-lg text-zinc-500 italic dark:text-zinc-400 mb-8 text-center">
           Design Engineer
         </p>
 
