@@ -18,13 +18,13 @@ export default function Home() {
         {/* Links */}
         <div className="flex gap-5 mt-2">
           <a
-            href="mailto:alex.carter@email.com"
+            href="mailto:shazabdev@email.com"
             className="text-zinc-700 dark:text-zinc-200 underline underline-offset-2 hover:text-black dark:hover:text-white transition"
           >
             Email
           </a>
           <a
-            href="https://www.linkedin.com/in/alexcarter"
+            href="https://www.linkedin.com/in/shazab-saifi-85a207338"
             className="text-zinc-700 dark:text-zinc-200 underline underline-offset-2 hover:text-black dark:hover:text-white transition"
             target="_blank"
             rel="noopener noreferrer"
@@ -32,7 +32,7 @@ export default function Home() {
             LinkedIn
           </a>
           <a
-            href="https://github.com/alexcarter"
+            href="https://github.com/shazab-saifi"
             className="text-zinc-700 dark:text-zinc-200 underline underline-offset-2 hover:text-black dark:hover:text-white transition"
             target="_blank"
             rel="noopener noreferrer"
